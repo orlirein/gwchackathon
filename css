@@ -1,0 +1,26 @@
+body{
+        font-family: "verdana";
+}
+
+body {
+    background-color:#808080;
+}
+
+
+.jumbotron{
+    background:#808080;
+    height:2px;
+}
+.jumbotron img{
+    width:15%;
+    float:left;
+    max-height:160px;
+}
+.page-header{
+  border: none
+}
+
+#add-btn{
+color:black;
+background: lightgray;
+}
